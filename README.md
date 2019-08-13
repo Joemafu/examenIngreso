@@ -1,2 +1,1 @@
-# examenIngreso
-Practicando
+# Practicando con el examen de ingreso
